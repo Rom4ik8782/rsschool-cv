@@ -2,3 +2,7 @@
 - ## Contacts
   - e-mail:Rom4ik8782@gmail.com
   - github:Rom4ik8782
+- ## small talk
+  - Main goal of my education is become a good one front-end developer and full-stuck developer in future.
+- ## skills
+  - HTML5, CSS, JavaScript, SASS, Pug, Gulp, Bootstrap, Flex, Grid, Git
