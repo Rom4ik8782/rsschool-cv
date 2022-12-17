@@ -1,0 +1,16 @@
+- ## Raman Kuzniatsou
+- ## Contacts
+  - e-mail:Rom4ik8782@gmail.com
+  - github:Rom4ik8782
+- ## small talk
+  - Main goal of my education is become a good one front-end developer and full-stuck developer in future.
+- ## skills
+  - HTML5, CSS, JavaScript, SASS, Pug, Gulp, Bootstrap, Flex, Grid, Git
+- ## code examples
+  - no examples
+- ## work expirience
+  - I haven't got any experience in dev, but I'd like to get it
+- ## education
+  - Graduated in Belarus state university at the law faculty in 2021, nowadays education in Rolling Scopes School like a front-end engineer
+- ## english lvl
+  - b1-b2
