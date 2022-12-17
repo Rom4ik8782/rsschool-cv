@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Lineage";
+  src: url(fonts/lineage2font.ttf);
+}
+a {
+  font-family: "Lineage", serif, Arial, Helvetica, sans-serif;
+}
